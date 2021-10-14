@@ -1,5 +1,5 @@
 # Data-Analysis-Projects-Using-Python-DataCamp-Projects
-My Notebook of DataCamp Projects
+My Notebook of DataCamp Projects. 4 projects included.
 
 <b>Manipulating and Visualizing Historical Data</b><br>
 --------------------------------------------------
