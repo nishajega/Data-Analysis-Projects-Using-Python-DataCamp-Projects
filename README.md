@@ -4,6 +4,7 @@ My Notebook of DataCamp Projects. 4 projects included.
 <b>Google Play Store Data Analysis</b><br>
 --------------------------------------
 Scraped Google Play Store data loaded, cleaned and visualized to gain insight into the Android app market. Performed data wrangling, create visualizations, and carry out a descriptive and inferential analysis on Android app market by comparing over ten thousand apps in Google Play across different categories.
+*You can find the dataset here https://www.kaggle.com/nobelfoundation/nobel-laureates , too.
 
 <b>Manipulating and Visualizing Historical Data</b><br>
 --------------------------------------------------
